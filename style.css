@@ -5,7 +5,7 @@
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
     #open-btn{
 margin-right: 10px !important;
 top: 38px !important;
