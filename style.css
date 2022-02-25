@@ -18,7 +18,7 @@ top: 38px !important;
         height: auto;
     }
    .hero-img{
-       opacity:0;
+       opacity:0 !importnant;
     p{
         margin: 0%;
     }
